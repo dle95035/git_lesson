@@ -1,7 +1,8 @@
 def my_square(y):
 	""" return the square of the number
-	    more on documention. 
+	    more on documention. More doc
 	"""
+
 	return (y ** 2)
 print(my_square(12))
 
