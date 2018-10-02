@@ -3,5 +3,5 @@ def my_square(x):
 	    more on documention. change more
 	"""
 	return (x ** 2)
-print(my_square(5))
+print(my_square(7))
 
