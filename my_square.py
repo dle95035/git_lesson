@@ -5,6 +5,8 @@ def my_square(y):
 	return (y ** 2)
 
 def my_square2(x):
+	""" use different operator
+	"""
 	return (x*x)
 
 print(my_square(12))
